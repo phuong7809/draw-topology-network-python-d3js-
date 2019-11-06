@@ -1,0 +1,54 @@
+{
+    "links": [
+        {
+            "source": "usplnAGVPCLAB1003", 
+            "target": "AR21-U23-ICB1"
+        }, 
+        {
+            "source": "usplnAGVPCLAB1003", 
+            "target": "AR21-U23-ICB2"
+        }, 
+        {
+            "source": "usplnAGVPCLAB1004", 
+            "target": "AR21-U23-ICB2"
+        }, 
+        {
+            "source": "AR21-U23-ICB1", 
+            "target": "pln-ng1-esxm3"
+        }, 
+        {
+            "source": "AR21-U23-ICB1", 
+            "target": "pln-ng1-esxm4"
+        }, 
+        {
+            "source": "AR21-U23-ICB2", 
+            "target": "pln-ng1-esxm4"
+        }
+    ], 
+    "nodes": [
+        {
+            "group": "1", 
+            "id": "pln-ng1-esxm3"
+        }, 
+        {
+            "group": "1", 
+            "id": "pln-ng1-esxm4"
+        }, 
+        {
+            "group": "3", 
+            "id": "usplnAGVPCLAB1003"
+        }, 
+        {
+            "group": "3", 
+            "id": "usplnAGVPCLAB1004"
+        }, 
+        {
+            "group": "2", 
+            "id": "AR21-U23-ICB1"
+        }, 
+        {
+            "group": "2", 
+            "id": "AR21-U23-ICB2"
+        }
+    ]
+}
